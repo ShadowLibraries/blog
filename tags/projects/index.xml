@@ -1,0 +1,27 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>projects - Tag - Shadow Libraries Blog</title>
+        <link>http://example.org/tags/projects/</link>
+        <description>projects - Tag - Shadow Libraries Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 07 Sep 2023 19:17:00 -0300</lastBuildDate><atom:link href="http://example.org/tags/projects/" rel="self" type="application/rss+xml" /><item>
+    <title>Creating ebooks in the pandemic: My journey into book piracy</title>
+    <link>http://example.org/posts/approach-ebooks/</link>
+    <pubDate>Thu, 07 Sep 2023 19:17:00 -0300</pubDate>
+    <author>Shadow Libraries</author>
+    <guid>http://example.org/posts/approach-ebooks/</guid>
+    <description><![CDATA[Creating ebooks in the pandemic: My journey into book piracy. When the pandemic broke out in 2020, I finally had some free time. I had always been interested in book piracy, but had never managed to get my hands on it. Now I finally had a chance.
+EpubLibre is probably the best site for downloading ebooks in Spanish. All the files published there and carefully crafted and reviewed by them. They are all created from scratch and the quality is excellent.]]></description>
+</item>
+<item>
+    <title>Shadow Libraries</title>
+    <link>http://example.org/posts/shadow-librariries/</link>
+    <pubDate>Fri, 01 Sep 2023 23:09:08 -0300</pubDate>
+    <author>Shadow Libraries</author>
+    <guid>http://example.org/posts/shadow-librariries/</guid>
+    <description><![CDATA[Site I made a few years ago. You can visit the website here, and you can visit the Github repo here.
+ Shadow Libraries A pirate libraries archive. The name of this site comes from the homonym book edited by Joe Karaganis.
+Shadow libraries, sometimes called pirate libraries, consist of texts aggregated outside the legal framework of copyright.
+ Today&rsquo;s pirate libraries have their roots in the work of Russian academics to digitize texts in the 1990s.]]></description>
+</item>
+</channel>
+</rss>

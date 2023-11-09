@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Shadow Libraries Blog</title>
+        <link>http://example.org/tags/</link>
+        <description>Tags - Tag - Shadow Libraries Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 07 Sep 2023 19:17:00 -0300</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>ebooks</title>
+    <link>http://example.org/tags/ebooks/</link>
+    <pubDate>Thu, 07 Sep 2023 19:17:00 -0300</pubDate>
+    <author>Shadow Libraries</author>
+    <guid>http://example.org/tags/ebooks/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>projects</title>
+    <link>http://example.org/tags/projects/</link>
+    <pubDate>Thu, 07 Sep 2023 19:17:00 -0300</pubDate>
+    <author>Shadow Libraries</author>
+    <guid>http://example.org/tags/projects/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>guides</title>
+    <link>http://example.org/tags/guides/</link>
+    <pubDate>Fri, 01 Sep 2023 22:46:32 -0300</pubDate>
+    <author>Shadow Libraries</author>
+    <guid>http://example.org/tags/guides/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

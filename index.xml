@@ -1,0 +1,46 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Shadow Libraries Blog</title>
+        <link>http://example.org/</link>
+        <description>Personal projects. Stuff I don&#39;t want to forget.</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 07 Sep 2023 19:17:00 -0300</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Creating ebooks in the pandemic: My journey into book piracy</title>
+    <link>http://example.org/posts/approach-ebooks/</link>
+    <pubDate>Thu, 07 Sep 2023 19:17:00 -0300</pubDate>
+    <author>Shadow Libraries</author>
+    <guid>http://example.org/posts/approach-ebooks/</guid>
+    <description><![CDATA[Creating ebooks in the pandemic: My journey into book piracy. When the pandemic broke out in 2020, I finally had some free time. I had always been interested in book piracy, but had never managed to get my hands on it. Now I finally had a chance.
+EpubLibre is probably the best site for downloading ebooks in Spanish. All the files published there and carefully crafted and reviewed by them. They are all created from scratch and the quality is excellent.]]></description>
+</item>
+<item>
+    <title>Shadow Libraries</title>
+    <link>http://example.org/posts/shadow-librariries/</link>
+    <pubDate>Fri, 01 Sep 2023 23:09:08 -0300</pubDate>
+    <author>Shadow Libraries</author>
+    <guid>http://example.org/posts/shadow-librariries/</guid>
+    <description><![CDATA[Site I made a few years ago. You can visit the website here, and you can visit the Github repo here.
+ Shadow Libraries A pirate libraries archive. The name of this site comes from the homonym book edited by Joe Karaganis.
+Shadow libraries, sometimes called pirate libraries, consist of texts aggregated outside the legal framework of copyright.
+ Today&rsquo;s pirate libraries have their roots in the work of Russian academics to digitize texts in the 1990s.]]></description>
+</item>
+<item>
+    <title>Download books from IRC</title>
+    <link>http://example.org/posts/irc_guide/</link>
+    <pubDate>Fri, 01 Sep 2023 22:46:32 -0300</pubDate>
+    <author>Shadow Libraries</author>
+    <guid>http://example.org/posts/irc_guide/</guid>
+    <description><![CDATA[Getting books from IRC Channels  Guide made for the Shadow Libraries website a while ago.
+ What&rsquo;s IRC? Internet Relay Chat (IRC) is an application layer protocol that facilitates communication in the form of text. The chat process works on a client/server networking model. IRC clients are computer programs that users can install on their system or web based applications running either locally in the browser or on a 3rd party server.]]></description>
+</item>
+<item>
+    <title>First post</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Fri, 01 Sep 2023 22:31:31 -0300</pubDate>
+    <author>Shadow Libraries</author>
+    <guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[Hello World I&rsquo;m not really sure what this is going to be about. Mostly projects, guides and thoughts. Not really meant to be that public, but if chance brought you here&hellip; Welcome!]]></description>
+</item>
+</channel>
+</rss>

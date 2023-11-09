@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>guides - Tag - Shadow Libraries Blog</title>
+        <link>http://example.org/tags/guides/</link>
+        <description>guides - Tag - Shadow Libraries Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Sep 2023 22:46:32 -0300</lastBuildDate><atom:link href="http://example.org/tags/guides/" rel="self" type="application/rss+xml" /><item>
+    <title>Download books from IRC</title>
+    <link>http://example.org/posts/irc_guide/</link>
+    <pubDate>Fri, 01 Sep 2023 22:46:32 -0300</pubDate>
+    <author>Shadow Libraries</author>
+    <guid>http://example.org/posts/irc_guide/</guid>
+    <description><![CDATA[Getting books from IRC Channels  Guide made for the Shadow Libraries website a while ago.
+ What&rsquo;s IRC? Internet Relay Chat (IRC) is an application layer protocol that facilitates communication in the form of text. The chat process works on a client/server networking model. IRC clients are computer programs that users can install on their system or web based applications running either locally in the browser or on a 3rd party server.]]></description>
+</item>
+</channel>
+</rss>
